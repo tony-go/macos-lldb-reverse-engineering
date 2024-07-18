@@ -7,13 +7,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>CrackTheLicence</string>
+	<string>CrackTheLicense</string>
 	<key>CFBundleIdentifier</key>
-	<string>tonygo.CrackTheLicence</string>
+	<string>tonygo.CrackTheLicense</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>CrackTheLicence</string>
+	<string>CrackTheLicense</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -41,6 +41,6 @@
 	<key>DTXcodeBuild</key>
 	<string>15F31d</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>14.2</string>
+	<string>14.5</string>
 </dict>
 </plist>
